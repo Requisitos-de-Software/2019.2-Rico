@@ -99,12 +99,20 @@ O First Things First é uma técnica de priorização de requisitos que visa def
 **RF16** - Proporcionar que o usuário aprenda sobre investimento
 
 
+### **First Things First v2.0**
+
+<p align="center">
+    <iframe src="https://docs.google.com/spreadsheets/d/e/2PACX-1vTY8OVTEamJ7fkYhvMQuNsfhM1CPcORV5AyC_4-vYOtxNVDz68xkIrH1oPwB3DRYkLK-oxQyJxgdkEJ/pubhtml?widget=true&amp;headers=false" frameborder="0" width="3000" height="600" allowfullscreen="true"e mozallowfullscreen="tru" webkitallowfullscreen="true"></iframe>
+</p>
+
+
 ### **Histórico de Revisões**
-| Data       | Responsável                                        | Versão | Alteração                      |
-| ---------- | -------------------------------------------------- | ------ | ------------------------------ |
-| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando tabela do MoSCoW   |
-| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.1    | Adicionando First Things First |
-| 30/09/2019 | [@dansousamelo](https://github.com/dansousamelo)   | 1.2    | Adicionando Correções          |
+| Data       | Responsável                                        | Versão | Alteração                           |
+| ---------- | -------------------------------------------------- | ------ | ----------------------------------- |
+| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando tabela do MoSCoW        |
+| 27/09/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.1    | Adicionando First Things First      |
+| 30/09/2019 | [@dansousamelo](https://github.com/dansousamelo)   | 1.2    | Adicionando Correções               |
+| 23/11/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.3    | Adicionando First Things First v2.0 |
 
 ## **Referências**
 * <p align="justify">SERRANO, Maurício; SERRANO, Milene. Aula de elicitação, modelagem e análise de requisitos. Requisitos de Software Aula 7, [S. l.], p. 31-40, 3 abr. 2018. E-book.</p>
