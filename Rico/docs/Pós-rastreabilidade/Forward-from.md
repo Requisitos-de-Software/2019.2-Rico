@@ -1,13 +1,13 @@
 ![](../img/arrow_direita.jpg)
 
 ## **Introdução**
-<p align="justify"> O rastreamento de requisitos é utilizado para prover relacionamentos entre requisitos, arquitetura e implementação final do sistema e possibilita uma adequada compreensão dos relacionamentos de dependência entre requisitos e através dos artefatos de requisitos, de arquitetura e de implementação. A rastreabilidade pode ser implementada por um conjunto de **elos** ou **ligações** (links) entre requisitos inter-relacionados, entre requisitos e suas fontes, e entre requisitos e os componentes que os implementam. </p>
+<p align="justify">&emsp; O rastreamento de requisitos é utilizado para prover relacionamentos entre requisitos, arquitetura e implementação final do sistema e possibilita uma adequada compreensão dos relacionamentos de dependência entre requisitos e através dos artefatos de requisitos, de arquitetura e de implementação. A rastreabilidade pode ser implementada por um conjunto de <b>elos</b> ou <b>ligações</b> (links) entre requisitos inter-relacionados, entre requisitos e suas fontes, e entre requisitos e os componentes que os implementam. </p>
 
-<p align="justify">Para o estabelecimento da rastreabilidade *forward-from*, iremos criar uma tabela que mostre desde artefatos que abrangem vários requisitos até ser mostrado, para cada requisito, os seus critérios de aceitação e a(s) sua(s) tela(s) da funcionalidade implantada(s).</p>
+<p align="justify">&emsp;Para o estabelecimento da rastreabilidade <b>forward-from</b>, iremos criar uma tabela que mostre desde artefatos que abrangem vários requisitos até ser mostrado, para cada requisito, os seus critérios de aceitação e a(s) sua(s) tela(s) da funcionalidade implantada(s).</p>
 
 ## **Objetivo**
 
-<p align="justify">Para o estabelecimento da rastreabilidade forward-from, iremos criar uma tabela que mostre desde artefatos que abragem vários requisitos até ser mostrado, para cada requisito, os seus critérios de aceitação e a(s) sua(s) tela(s) da funcionalidade implantada(s).</p>
+<p align="justify">&emsp;Para o estabelecimento da rastreabilidade forward-from, iremos criar uma tabela que mostre desde artefatos que abragem vários requisitos até ser mostrado, para cada requisito, os seus critérios de aceitação e a(s) sua(s) tela(s) da funcionalidade implantada(s).</p>
 
 ## Requisitos Funcionais
 
@@ -405,4 +405,5 @@
 | Data       | Responsável                                                                                   | Versão | Alteração                                         |
 | ---------- | --------------------------------------------------------------------------------------------- | ------ | ------------------------------------------------- |
 | 19/11/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410)| 1      | Adicionando Itens de 0 a 55 de requisitos elicitados e colocados no excel|
+|23/11/2019 | [@dansousamelo](https://github.com/dansousamelo)| 1.1      | Ajustando formatação|
 
