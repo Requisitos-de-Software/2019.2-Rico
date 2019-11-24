@@ -1,4 +1,4 @@
-![Rich-picture](../../../img/sherlock.png)
+![Rich-picture](../../img/sherlock.png)
 
 ## **Planejamento**
 

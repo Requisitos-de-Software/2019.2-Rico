@@ -1,4 +1,4 @@
-![Rich-picture](../../../img/sherlock.png)
+![Rich-picture](../../img/sherlock.png)
 
 ## **Planejamento**
 <p align="justify">&emsp;As perguntas para inspeção foram baseadas no Artigo: C&L: Uma Ferramenta de Apoio à Engenharia de Requisitos, referenciado ao final da página.<i></i></p>
