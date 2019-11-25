@@ -4,13 +4,25 @@
 
 ![Diagram de login](../img/login.png)
 
+### Login - V2
+
+![Diagram de login V2](../img/Acesso-aplicacao-v2.jpeg)
+
 ### Área do usuário
 
 ![Área do usuário](../img/area_do_usuario.png)
 
+### Área do usuário - V2
+
+![Área do usuário V2](../img/Area-usuario-v2.jpeg)
+
 ### Área de investimento
 
 ![Área de investimento](../img/area_investimento.png)
+
+### Área de investimento - V2
+
+![Área de investimento V2](../img/Area-investimento-v2.jpeg)
 
 ## UC01 - Realizar o cadastro de uma nova conta
 
@@ -2152,6 +2164,7 @@ Data | Responsável | Versão | Alteração
 ---- | ----------- | ------ | ---------
 29/09/2019 | [@tmcstiago](https://github.com/tmcstiago) e [@medeiroslucas](https://github.com/medeiroslucas) | 1 | Adiciona os Casos de Uso
 21/10/2019 | [@tmcstiago](https://github.com/tmcstiago) e [@medeiroslucas](https://github.com/medeiroslucas) | 2 | Adicionar diagramas de caso de uso
+25/11/2019 | [@tmcstiago](https://github.com/tmcstiago) e [@medeiroslucas](https://github.com/medeiroslucas) | 3 | Atualizar diagramas de caso de uso
 
 ## **Referências**
  * <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11; Disponível em https://aprender.ead.unb.br/pluginfile.php/727236/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf.</p>

@@ -40,6 +40,12 @@
 ## **Acompanhamento**
 <p align="justify">&emsp;A fim de garantir que as modificações necessárias nos Casos de Uso foram feitas em conformidade, o moderador e o autor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) dos Casos de Uso tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.</p>
 
+<p align="justify">Diagramas de casos de uso atualizados após a avaliação:</p>
+
+* [Login](/Modelagem/casos-de-uso/#login-v2)
+* [Área do Usuário](/Modelagem/casos-de-uso/#area-do-usuario-v2)
+* [Área de Investimentos](/Modelagem/casos-de-uso/#area-de-investimento-v2)
+
 ## **Histórico de Revisões**
 
 | Data       | Responsável                                        | Versão | Alteração                                                                            |

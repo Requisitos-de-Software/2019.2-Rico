@@ -14,7 +14,7 @@
 ![Juliano](../../img/Richhh.jpg)
 <p align="center"><i>Juliano Almeida</i></p>
 
-<p align="justify">&emsp;A partir do rascunho feito por Juliano e através da inspeção realizada no processo de verificação, uma versão final do Rich Picture foi elaborada. O resultado foi este:
+<p align="justify">&emsp;A partir do rascunho feito por Juliano e através da inspeção realizada no processo de verificação, uma versão final do Rich Picture foi elaborada. O resultado foi este:</p>
 
 ### **Validação Mal Sucedida - Via Email**
 
