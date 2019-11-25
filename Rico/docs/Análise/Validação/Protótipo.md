@@ -36,5 +36,3 @@ US07
 
 ## **Referências**
  * <p align="justify">SERRANO, Maurício; SERRANO, Milene; Requisitos - Aula 11; Disponível em https://aprender.ead.unb.br/pluginfile.php/727236/mod_resource/content/1/Requisitos%20-%20Aula%20013a.pdf.</p>
- * <p align="justify">FERNANDES DA SILVA, Lyrene; CESAR SAMPAIO DO PRADO LEITE, Julio; KOOGAN BREITMAN, Karin. C&L: Uma Ferramenta de Apoio à Engenharia de Requisitos. Revista RITA, [S. l.], p. 1-23, 20 jan. 2005.
-</p>
