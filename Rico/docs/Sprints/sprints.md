@@ -63,7 +63,7 @@
 ### **Sprint 4**
 26/09 ~ 03/10
 
-<p align="justify">
+<p align="justify">&emsp;
     Nessa Sprint foi continuado o trabalho de modelagem de requisitos e preparações para o Ponto de controle 3, que aconteceu no dia 01/10. Portanto, os tópicos repetidos aqui foram definitivamente finalizados ou melhorados.
 </p>
 
@@ -77,7 +77,7 @@
 ### **Sprint 5**
 03/10 ~ 10/10
 
-<p align="justify">
+<p align="justify">&emsp;
     Após o Ponto de controle 3 iniciaram-se as aulas teóricas sobre os próximos tópicos de modelagem, aqui foram iniciados os Backlogs e História de usuário que se estenderam até o Ponto de controle 4 por serem tópicos longos e bem detalhados. 
 </p>
 
@@ -91,7 +91,7 @@
 ### **Sprint 6**
 10/10 ~ 17/10
 
-<p align="justify">
+<p align="justify">&emsp;
     O foco da 6° Sprint foram os tópicos de modelagem: NFR Framework, Backlogs e História de usuário.
 </p>
 
@@ -104,7 +104,7 @@
 ### **Sprint 7**
 17/10 ~ 24/10
 
-<p align="justify">
+<p align="justify">&emsp;
     Na Sprint 7 foi fundamental a preparação da Wiki e a apresentação para o 4° Ponto de controle (que aconteceu no dia 22/10), além disso, foram finalizados os NFR Framework, Backlogs e Histórias de usuário.
 </p>
 
@@ -119,7 +119,7 @@
 ### **Sprint 8**
 24/10 ~ 31/10
 
-<p align="justify">
+<p align="justify">&emsp;
     Na Sprint 8 foi trabalhado as técnicas de Inspeção e Validação dos requisitos já levantados a partir dos artefatos já produzidos pela equipe.
 </p>
 
@@ -133,9 +133,55 @@
 | Apresentação em slides                               | Todos os integrantes          |
 | Atualização de todos os tópicos da Wiki              | Todos os integrantes          |
 
+
+### **Sprint 9**
+31/10 ~ 07/11
+
+<p align="justify">&emsp;
+    Nessa Sprint a equipe se uniu em diversas tarefas e artefatos para a refatoração de alguns requisitos para garantir a qualidade dos artefatos da Pós Rastreabilidade.
+</p>
+
+| Atividade                                   | Integrantes          |
+| ------------------------------------------- | -------------------- |
+| Ajuste na Baseline                          | Todos os integrantes |
+| Planejamento técnicas de elicitação         | Todos os integrantes |
+| 6 Chapéus, Brainstorm, Análise de Protocolo | Todos os integrantes |
+
+
+### **Sprint 10**
+07/11 ~ 14/11
+
+<p align="justify">&emsp;
+    
+</p>
+
+| Atividade              | Integrantes                                |
+| ---------------------- | ------------------------------------------ |
+| Gerência de Requisitos | Daniel Sousa                               |
+| Forward From           | Daniel Sousa, Luis Bruno e Pedro Miranda   |
+| Backward From          | Lucas Leite, Lucas Medeiros e Tiago Miguel |
+
+
+### **Sprint 11**
+14/11 ~ 19/11
+
+<p align="justify">&emsp;
+    Nessa Sprint houve a preparação para o sexto Ponto de controle, que aconteceu no dia 19/11, onde conceitos de gerência e rastreabilidade foram mostrados, além dos artefatos de Backward from e Forward from. Nesta Sprint houve também um planejamento mais bem trabalhado para a montagem da Apresentação Final, onde todos os documentos devem ser revisados e devidamente corrigidos, além alinhar todos os artefatos que ainda não foram concluídos.
+</p>
+
+| Atividade                                                | Integrantes                                |
+| -------------------------------------------------------- | ------------------------------------------ |
+| Forward From                                             | Daniel Sousa, Luis Bruno e Pedro Miranda   |
+| Backward From                                            | Lucas Leite, Lucas Medeiros e Tiago Miguel |
+| Planejamento dos próximos passos e da Apresentação Final | Todos os integrantes                       |
+| Apresentação em slides                                   | Todos os integrantes                       |
+
+
+
 ### **Histórico de Revisões**
 | Data       | Responsável                                        | Versão | Alteração                                      |
 | ---------- | -------------------------------------------------- | ------ | ---------------------------------------------- |
 | 01/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1      | Adicionando conteúdo das sprints               |
 | 22/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.1    | Adicionando conteúdo das sprints a partir da 4 |
 | 31/10/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.2    | Adicionando conteúdo da sprint 8               |
+| 23/11/2019 | [@lbrunofidelis](https://github.com/lbrunofidelis) | 1.3    | Adicionando conteúdo a partir da sprint 9      |
