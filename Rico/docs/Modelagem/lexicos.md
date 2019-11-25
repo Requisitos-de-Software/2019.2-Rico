@@ -7,6 +7,14 @@
 | **Impacto** | <p>O [usuário](#usuario) pode criar [conta](#conta)</p> <p>O [usuário](#usuario) pode realizar [Depósito](#deposito)</p><p>O [usuário](#usuario) pode [transferir](#transferir) [dinheiro](#dinheiro)</p>  |
 | **Classificação** |objeto |
 
+## Agência - V2
+| **Nome**  | **Agência - V2** |
+| ------------- | ------------- |
+| **Sinônimos**  | Agência, Agências, Escritório, filial |
+| **Noção** |O [usuário](./#usuario) possui uma agência para realizar [depósitos](./#deposito) ou transferências em sua [conta](./#conta) rico |
+| **Impacto** | <p>O [usuário](./#usuario) pode criar [conta](./#conta)</p> <p>O [usuário](./#usuario) pode realizar [Depósito](./#deposito)</p><p>O [usuário](./#usuario) pode [transferir](./#transferir) [dinheiro](./#dinheiro)</p>  |
+| **Classificação** |objeto |
+
 ## Agressivo
 | **Nome**  | **Agressivo** |
 | ------------- | ------------- |
@@ -23,12 +31,36 @@
 | **Impacto** | O [usuário](#usuario) terá maior agilidade e eficiência no uso da plataforma |
 | **Classificação** | Verbo |
 
+## Ajuda (FAQ) - V2
+| **Nome**  | **Ajuda (FAQ) - V2** |
+| ------------- | ------------- |
+| **Sinônimos**  | Amparo, beneficiamento, auxílio |
+| **Noção** | O sistema auxilia, também, através do FAQ(frequently Asked Questions ou Perguntas Frequentes) onde o [usuário](./#usuario) venha a ter uma dúvida de uso e nessa aba de ajuda ele consegue ver que alguém teve o mesmo erro e sua resolução do problema está disponível em tal página |
+| **Impacto** | O [usuário](./#usuario) terá maior agilidade e eficiência no uso da plataforma, pois, caso seja uma dúvida comum, ganhará tempo resolvendo sem espera |
+| **Classificação** | Verbo |
+
+## Ajuda (FAQ) - V2
+| **Nome**  | **Ajuda (FAQ) - V2** |
+| ------------- | ------------- |
+| **Sinônimos**  | Amparo, beneficiamento, auxílio |
+| **Noção** | O sistema auxilia, também, através do FAQ(frequently Asked Questions ou Perguntas Frequentes) onde o [usuário](./#usuario) venha a ter uma dúvida de uso e nessa aba de ajuda ele consegue ver que alguém teve o mesmo erro e sua resolução do problema está disponível em tal página |
+| **Impacto** | O [usuário](./#usuario) terá maior agilidade e eficiência no uso da plataforma, pois, caso seja uma dúvida comum, ganhará tempo resolvendo sem espera |
+| **Classificação** | Verbo |
+
 ## Alavancar
 | **Nome**  | **Alavancar** |
 | ------------- | ------------- |
 | **Sinônimos** | Impulsionar, incentivar, progredir |
 | **Noção** | Um serviço pago da plataforma que, por meio de [Day Trades](#day-trade), pode aumentar o [patrimônio](#patrimonio) do [usuário](#usuario) em até 25 vezes |
 | **Impacto** | O serviço promove um aumento no [patrimônio](#patrimonio) do [usuário](#usuario) |
+| **Classificação** | Verbo |
+
+## Alavancar - V2
+| **Nome**  | **Alavancar - V2** |
+| ------------- | ------------- |
+| **Sinônimos** | Impulsionar, incentivar, progredir |
+| **Noção** | Um serviço da plataforma, utilizado pelo [usuário](./#usuario), que, após ser pago, por meio de [Day Trades](#Day-Trade), pode aumentar o [patrimônio](#Patrimônio) do [usuário](./#usuario) em até 25 vezes |
+| **Impacto** | O serviço promove um aumento no [patrimônio](#Patrimônio) do [usuário](./#usuario) |
 | **Classificação** | Verbo |
 
 ## Alvo Programado

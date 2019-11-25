@@ -70,6 +70,12 @@
 ## **Acompanhamento**
 <p align="justify">&emsp;A fim de garantir que as modificações necessárias no léxico foram feitas em conformidade, o moderador e o autor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) dos léxicos tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.</p>
 
+<p align="justify">&emsp;Através desse método utilizado em inspeção, foram atualizados 3 Léxicos e que são eles:</p>
+
+* [Ajuda (FAQ) - V2]()
+* [Agência - V2]()
+* [Alavancar - V2]()
+
 ## **Histórico de Revisões**
 
 | Data       | Responsável                                        | Versão | Alteração                                                                            |

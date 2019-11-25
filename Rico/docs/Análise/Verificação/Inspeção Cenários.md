@@ -71,6 +71,15 @@
 ## **Acompanhamento**
 <p align="justify">&emsp;A fim de garantir que as modificações necessárias no cenário foram feitas em conformidade, o moderador e o autor são responsáveis por isso. O objetivo do processo de acompanhamento é garantir que o(s) autor(es) dos cenários tenha(m) retificado todos os requisitos declarados incompletos e/ou inconsistentes ou os defeitos detectados.</p>
 
+<p align="justify">&emsp;Através desse método utilizado em inspeção, foram atualizados 6 Cenários e que são eles:</p>
+
+* [Avaliar o App - V2]()
+* [Investir por Categoria - V2]()
+* [Sair do Aplicativo - V2]()
+* [Realizar Alavancagem - V2]()
+* [Obter acesso a informações gerais - V2]()
+* [Solicitar ajuda - V2]()
+
 ## **Histórico de Revisões**
 
 | Data       | Responsável                                        | Versão | Alteração                                                                            |

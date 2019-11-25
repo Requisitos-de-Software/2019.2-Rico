@@ -15,7 +15,7 @@
 | **Contexto** | <p> **Pré-condição:** [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) não possui [conta](/2019.2-Rico/Modelagem/lexicos/#conta) </p><p>**Pós-condição:**É criado um perfil através do e-mail e da senha do usuário, podendo também conter um login pela digital</p> |
 | **Atores** |<p>1. Não Usuário</p><p>2. Usuário</p><p>3. Sistema</p>|
 | **Recursos** |<p>Acesso a internet</p><p> Computador desktop ou smartphone</p>|
-| **Episódios** |1. O usuário não cadastrado acessa a Rico</p><p>2. O usuário não cadastrado deve [criar uma conta](#Criar-Uma-Conta)</p><p>3. O usuário que já tem uma conta deve logar no sistema</p><p>4. O sistema permite, o usuário que tem uma conta, acessar a sua conta</p><p>5. O sistema deve criar uma conta ao usuário que a solicitou<p/>|
+| **Episódios** |1. O usuário não cadastrado acessa a Rico</p><p>2. O usuário não cadastrado deve [criar uma conta](#Criar-Uma-Conta)</p><p>3. O usuário que já tem uma conta deve logar no sistema</p><p>4. O sistema permite, o usuário que tem uma conta, acessar a sua conta</p><p>5. O sistema deve criar uma conta ao usuário que a solicitou</p>|
 | **Restrições** |<p>Interface agradável para o usuário</p>|
 | **Exceção** |<p>O usuário deve ser maior de 18 anos</p>|
  
@@ -43,6 +43,17 @@
 | **Episódios** | <p>1. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) acessa sua conta</p><p>2. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) visualiza sua quantidade de dinheiro X</p><p>3. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) não quer deixar seu dinheiro parado</p><p>4. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario), por ser [conservador](#Conservador), quer procurar nas categorias os de renda fixa</p><p>5. o [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) encontra o que quer comprar e investe seu dinheiro </p> |
 | **Restrições** | <p>[usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) que possui dinheiro na carteira</p><p>[usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) que não quer deixar o dinheiro parado</p> |
 | **Exceção** | <p>1. A internet parar de funcionar no meio da ação</p><p>2. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) não ter dinheiro suficiente pra comprar determinada ação</p> |
+
+##  Investir por Categoria - V2
+| **Título**  | **Investir por Categoria - V2** |
+| ------------- | ------------- |
+| **Objetivo**  | Possibilitar o [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) de escolher por categoria o tipo de investimento que quer realizar e, dentro da categoria selecionada, escolher o que comprar |
+| **Contexto** | <p> **Pré-condição:** O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) tem uma quantidade de dinheiro para comprar uma ação</p><p>**Pós-condição:**    O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) investe seu dinheiro em alguma ação</p>  |
+| **Atores** | <p>1. [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario)</p><p>2. Sistema</p> |
+| **Recursos** | <p>1. Acesso a internet</p><p>2. Dinheiro necessário depositado na conta</p> |
+| **Episódios** | <p>O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) acessa sua conta</p><p>O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) visualiza sua quantidade de dinheiro X</p><p>O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) não quer deixar seu dinheiro parado</p><p>O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario), por ser [conservador](#Conservador), quer procurar nas categorias os investimentos de renda fixa</p><p>O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) encontra o que quer comprar e investe seu dinheiro </p> |
+| **Restrições** | <p>O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) que possui dinheiro na carteira</p><p>[usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) que não quer deixar o dinheiro parado</p> |
+| **Exceção** | <p>A internet parar de funcionar no meio da ação</p><p>O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) não ter dinheiro suficiente pra comprar determinada ação</p><p>O usuário ser menor de idade</p>|
 
 
 ##  Consultar patrimônio
@@ -155,6 +166,17 @@
 | **Restrições** | [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) feliz com o sistema, [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) chateado com o sistema |
 | **Exceção** | <p>A internet parar de funcionar durante ação</p> |
 
+##  Avaliar o App - V2
+| **Título**  | **Avaliar o App - V2** |
+| ------------- | ------------- |
+| **Objetivo**  | O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) deseja realizar uma avaliação da plataforma |
+| **Contexto** | <p> **Pré-condição:** </p><p>O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) gostou muito do sistema e deja avalia-lo</p><p>O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) não gostou do sistema e deseja avalia-lo</p><p>**Pós-condição:** O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) avaliou o sistema </p> |
+| **Atores** | [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario), Sistema |
+| **Recursos** | Acesso a internet |
+| **Episódios** | <p>1. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) está se sentindo muito satisfeito quanto a segurança e outros atributos do sistema </p><p>2. Após um tempo de uso, o sistema gera um popup, ao [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario), pedindo para que o sistema seja avaliado em sua tela</p><p>3. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) clica em avaliar e é redirecionado para a página de avaliação </p><p>4. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) avalia o sistema </p><p>5. A Equipe Rico recebe um feedback positivo</p> |
+| **Restrições** | [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) feliz com o sistema, [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) chateado com o sistema |
+| **Exceção** | <p>A internet parar de funcionar durante ação</p> |
+
 ##  Solicitar ajuda
 | **Título**  | **Solicitar ajuda** |
 | ------------- | ------------- |
@@ -166,10 +188,32 @@
 | **Restrições** | [Usuários]() com problemas |
 | **Exceção** | <p>A internet parar de funcionar durante ação</p><p> Não ter sinal para efetuar uma ligação</p> |
 
+##  Solicitar ajuda - V2
+| **Título**  | **Solicitar ajuda - V2** |
+| ------------- | ------------- |
+| **Objetivo**  | O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) objetiva sanar algum problema ou dúvida  |
+| **Contexto** | <p> **Pré-condição:** O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) está com algum problema</p><p>**Pós-condição:** O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) está isento de problemas</p> |
+| **Atores** | [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario), Sistema |
+| **Recursos** | Acesso a internet ou Acesso á rede telefonica |
+| **Episódios** | <p>1. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) se depara com uma problema no sistema que não consegue solucionar </p><p>2. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) entra no sistema com o intuito de buscar formas de pedir ajuda </p><p>3. O sistema dá a possibilidade do usuário ter uma conversa online direto com a Equipe Rico, ou com o bot do sistema codificado com inteligência artificial, ou via telefone, ou pelo fórum de dúvidas </p><p>4. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) escolhe a forma que melhor lhe agrada </p><p>5. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) tem seu problema resolvido</p> |
+| **Restrições** | [Usuários]() com problemas |
+| **Exceção** | <p>A internet parar de funcionar durante ação</p><p> Não ter sinal para efetuar uma ligação</p> |
+
 ##  Obter acesso a informações gerais
 | **Título**  | **Obter acesso a informações gerais** |
 | ------------- | ------------- |
 | **Objetivo**  | O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) pode ficar por dentro do que está acontecendo nos mercados |
+| **Contexto** | <p> **Pré-condição:** O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) está desinformado com o que está acontecendo no mercado</p><p>**Pós-condição:** O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) fica informado quanto ao mercado</p> |
+| **Atores** | [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) |
+| **Recursos** | Acesso a internet |
+| **Episódios** | <p> 1. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) está curioso quanto as rentabilidades do mercado </p><p>2. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) entra no sistema  </p><p>3. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) vê a aba "Investimentos", "Análises" e "Destaques da semana" </p><p>4. O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) entra em cada tópico e se informa da situação financeira do mundo </p> |
+| **Restrições** | [Usuários]() curiosos |
+| **Exceção** | <p>A internet parar de funcionar durante ação</p> |
+
+##  Obter acesso a informações gerais - V2
+| **Título**  | **Obter acesso a informações gerais - V2** |
+| ------------- | ------------- |
+| **Objetivo**  | O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) deseja ficar por dentro do que está acontecendo nos mercados, seja quanto a índices |
 | **Contexto** | <p> **Pré-condição:** O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) está desinformado com o que está acontecendo no mercado</p><p>**Pós-condição:** O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) fica informado quanto ao mercado</p> |
 | **Atores** | [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) |
 | **Recursos** | Acesso a internet |
@@ -282,6 +326,17 @@
 | **Restrições** |<p>Fluxo interativo</p><p>Boa experiência de usuário</p>|
 | **Exceção** |<p>O usuário não possuir conta na RICO</p><p>A internet parar de funcionar no meio da ação</p><p>O usuário fechar a aplicação antes de terminar a ação.</p><p>O usuário ser menor de idade</p>|
 
+## Realizar Alavancagem - V2
+| **Título**  | **Realizar Alavancagem - V2** |
+| ------------- | ------------- |
+| **Objetivo**  |Alavancagem é a utilização de determinados recursos para aproveitar oportunidades de multiplicar seus resultados. Ela funciona como um limite de crédito, possibilitando que você invista um valor maior do que tem em conta|
+| **Contexto** |<p> **Pré-condição:** Ter uma conta na Rico</p><p>**Pós-condição:** o usuário será capaz de utilizar a alavancagem</p>|
+| **Atores** |1. Usuário|
+| **Recursos** |Acesso a internet, ter um smartphone ou computador com acesso a internet|
+| **Episódios** |<p>O usuário deseja investir valores maiores, mas não possui muito dinheiro</p><p>O usuário faz uma alavancagem</p><p>O usuário investe uma quantia maior de dinheiro maior</p>|
+| **Restrições** |<p>Fluxo interativo</p><p>Boa experiência de usuário</p>|
+| **Exceção** |<p>O usuário não possuir conta na RICO</p><p>A internet parar de funcionar no meio da ação</p><p>O usuário fechar a aplicação antes de terminar a ação.</p><p>O usuário ser menor de idade</p>|
+
 ## Aplicação Automática
 | **Título**  | **Aplicação Automática** |
 | ------------- | ------------- |
@@ -331,6 +386,17 @@
 | **Título**  | **Sair do Aplicativo** |
 | ------------- | ------------- |
 | **Objetivo**  |O usuário necessita sair da aplicação|
+| **Contexto** |<p> **Pré-condição:** O usuário deve ter também uma conta na RICO</p><p>**Pós-condição:** O usuário sairá da aplicação</p>|
+| **Atores** |1. Usuário|
+| **Recursos** |Acesso a internet, ter um smartphone ou computador com acesso a internet|
+| **Episódios** |<p>O usuário utilizou a rico por um determinado tempo do dia e resolveu ir fazer outra coisa</p>O usuário sai do sistema<p></p>|
+| **Restrições** |<p>Fluxo interativo</p><p>Boa experiência de usuário</p>|
+| **Exceção** |<p>O usuário não possuir conta na RICO</p><p>A internet parar de funcionar no meio da ação</p><p>O usuário fechar a aplicação antes de terminar a ação.</p>|
+
+## Sair do Aplicativo - V2
+| **Título**  | **Sair do Aplicativo - V2** |
+| ------------- | ------------- |
+| **Objetivo**  | O [usuário](/2019.2-Rico/Modelagem/lexicos/#usuario) irá encerrar a sessão de seu login que havia sido realizado pelo aplicativo e fechar a plataforma |
 | **Contexto** |<p> **Pré-condição:** O usuário deve ter também uma conta na RICO</p><p>**Pós-condição:** O usuário sairá da aplicação</p>|
 | **Atores** |1. Usuário|
 | **Recursos** |Acesso a internet, ter um smartphone ou computador com acesso a internet|
