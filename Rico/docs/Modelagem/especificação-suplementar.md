@@ -25,10 +25,6 @@ Os requisitos abordados no documento de especificação suplementar foram orient
 
     Os dados do usuário devem estar armazenados de forma segura pois além possuir dados pessoais há também dados bancários e outros tipos de dados sigilosos.
 
-- **Disponibilidade do sistema 24hrs todos os dias na semana:**
-
-	O sistema deve funcionar 24 horas por dia, 7 dias por semana. Para o usuário é fundamental que o sistema fique sempre disponível para realizar transações (retirar dinheiro emergencial, por exemplo).
-
 ### **Performance**
 - **Tempo de resposta ao realizar transação:**
 
@@ -42,9 +38,9 @@ Os requisitos abordados no documento de especificação suplementar foram orient
 - **Compatibilidade com variados sistemas operacionais de dispositivos móveis:**
     O sistema deve ser compatível e suportado  pelos principais sistemas operacionais utilizados em dispositivos móveis como IoS e Android. É necessário levar em conta as limitações de cada sistema e de suas versões mais antigas, visando proporcionar a melhor experiência de usuário possível mesmo em uma sistema mais defasado.
 
-- **Compatibilidade com a plataforma web utilizando de   diversos navegadores:**
+- **Compatibilidade com a plataforma web utilizando de diversos navegadores:**
 
-	O sistema deve ser acessível e devidamente suportado nas principais  versões de browsers existentes atualmente como Google Chrome, Firefox, Opera Mini, Safari, etc. O sistema deve-se comportar de forma identica em todos os navegadores.
+	O sistema deve ser acessível e devidamente suportado nas principais versões de browsers existentes atualmente como Google Chrome, Firefox, Opera Mini, Safari, etc. O sistema deve se comportar de forma idêntica em todos os navegadores.
 
 
 ### **Referências**	

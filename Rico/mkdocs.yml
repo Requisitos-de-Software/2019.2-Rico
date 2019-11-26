@@ -16,13 +16,13 @@ nav:
     - Modelagem:
         - Casos de Uso: Modelagem/casos-de-uso.md
         - Léxicos: Modelagem/lexicos.md
-        - Cenários: Modelagem/cenários.md
+        - Cenários: Modelagem/cnários.md
         - Especificação Suplementar: Modelagem/especificação-suplementar.md
 
-        - NFR:
-            - V1: Modelagem/NFR/V1.md
-            - V2: Modelagem/NFR/V2.md
-            - V3: Modelagem/NFR/V3.md
+        - NFR Framework:
+            - V1: Modelagem/NFR Framework/V1.md
+            - V2: Modelagem/NFR Framework/V2.md
+            - V3: Modelagem/NFR Framework/V3.md
         - Ágil:
             - Backlog: Modelagem/Ágil/Backlog.md
             - Histórias de Usuário:
