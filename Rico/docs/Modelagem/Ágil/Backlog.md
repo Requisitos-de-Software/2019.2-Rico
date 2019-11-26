@@ -61,8 +61,11 @@ Lucas Medeiros Rosa  | [@medeiroslucas](https://github.com/medeiroslucas)
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo sair da minha conta</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="10">Área do usuário</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Informação do Usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="13">Área do usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Informação do Usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US57/" >US57</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como usuario desejo ter um menu para minhas informaçoes</td>
+        </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US07/" >US07</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar as informações da conta</td>
         </tr>
@@ -75,7 +78,10 @@ Lucas Medeiros Rosa  | [@medeiroslucas](https://github.com/medeiroslucas)
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar histórico de termos de contas</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="3">Alterar dados de usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Alterar dados de usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US58/" >US058</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como usuário desejo ter um menu para os meus dados</td>
+        </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US10/" >US010</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo definir ou alterar o meu perfil de investidos</td>
         </tr>
@@ -88,7 +94,10 @@ Lucas Medeiros Rosa  | [@medeiroslucas](https://github.com/medeiroslucas)
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo alterar assinatura eletrônica</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Área Financeira</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">Área Financeira</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US59" >US059</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como usuário desejo ter um menu para minhas informaçoes financeiras</td>
+        </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US13" >US013</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar informações para declarar Imposto de Renda</td>
         </tr>
@@ -105,17 +114,34 @@ Lucas Medeiros Rosa  | [@medeiroslucas](https://github.com/medeiroslucas)
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar notas de corretagem</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Apoio ao usuário</td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="2">Atendimento ao usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="7">Apoio ao usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="7">Atendimento ao usuário</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US60/" >US60</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como usuário desejo ter um menu para selecionar a forma de atendimento desejada</td>
+        </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US17/" >US17</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo falar com o atendimento da Rico</td>
         </tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US53/" >US53</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via FAQ</td>
+        </tr> 
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US54/" >US54</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via chat online</td>
+        </tr>
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US55/" >US55</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via telefone</td>
+        </tr> 
+        <tr>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US56/" >US56</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via mídias sociais</td>
+        </tr>          
         <tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US18/" >US18</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo tirar dúvidas do sistema</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="34">Gerenciamento de Investimento</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="35">Gerenciamento de Investimento</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="12">Informações Financeiras</td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US19/" >US19</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo visualizar o patrimônio na rico</td>
@@ -220,7 +246,10 @@ Lucas Medeiros Rosa  | [@medeiroslucas](https://github.com/medeiroslucas)
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo filtrar fundo de investimentos disponiveis</td>
         </tr>
         <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="4">Personalização para investimento</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);" rowspan="5">Personalização para investimento</td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US61/" >US61</a></td>
+            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como usuário desejo ter uma área para visualizar meus ativos selecionados</td>
+        </tr>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US44/" >US44</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo gerenciar ativos de renda variável</td>
         </tr>
@@ -257,22 +286,6 @@ Lucas Medeiros Rosa  | [@medeiroslucas](https://github.com/medeiroslucas)
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US52</a></td>
             <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo vender ativos de renda variável</td>
         </tr>  
-        <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US53</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via FAQ</td>
-        </tr> 
-        <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US54</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via chat online</td>
-        </tr>
-        <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US55</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via telefone</td>
-        </tr> 
-        <tr>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);"><a href="/2019.2-Rico/Modelagem/Ágil/Histórias de Usuário/US52/" >US56</a></td>
-            <td style="vertical-align: middle;text-align:center;border: 0.5px solid rgba(0,0,0,0.2);">Eu como um usuário do sistema desejo obter suporte via mídias sociais</td>
-        </tr>          
     </tbody>
 </table>
 
@@ -285,6 +298,7 @@ Data | Responsável | Versão | Alteração
 17/10/2019 | [@dansousamelo](https://github.com/dansousamelo) | 1.2 | Adicionado as US27 á US52 
 17/10/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) e [@dansousamelo](https://github.com/dansousamelo) | 1.3 | Adicionado referências e descrição 
 23/11/2019 | [@pedroMiranda7410](https://github.com/pedroMiranda7410) | 1.4 | Adicionando US 53, 54, 55, 56
+26/11/2019 | [@tmcstiago](https://github.com/tmcstiago) e [@medeiroslucas](http://github.com/medeiroslucas) | 1.5 | Adicionando US 57, 58, 59, 60, 61
 
 
 ## **Referências**
