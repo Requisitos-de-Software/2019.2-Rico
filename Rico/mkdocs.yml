@@ -1,13 +1,111 @@
 site_name: Rico
 
-# nav:
-#     - Home: index.md
-#     - Disciplina: disciplina.md
-#       - Elicitacao: elicitacao/
-#       - Priorizacao: elicitacao/priorizacao.md
-#       - Requisitos: elicitacao/requisitos.md
-#     - Entregas: 
-#       - Entregas: entregas/entregas.md
+nav:
+    - Home: index.md
+    - Disciplina:
+        - Disciplina: Disciplina/disciplina.md
+    - Rastreabilidade:
+        - Pré-Rastreabilidade:
+            - Rich Picture: Rastreabilidade/Pré-rastreabilidade/Rich_Picture.md
+        - Pós-Rastreabilidade:
+            - Backward-From: Rastreabilidade/Pós-rastreabilidade/Backward-from.md
+            - Forward-From: Rastreabilidade/Pós-rastreabilidade/Forward-from.md
+    - Elicitação:
+        - Requisitos: Elicitação/requisitos.md
+        - Priorização: Elicitação/priorização.md
+    - Modelagem:
+        - Casos de Uso: Modelagem/casos-de-uso.md
+        - Léxicos: Modelagem/léxicos.md
+        - Cenários: Modelagem/cenários.md
+        - Especificação Suplementar: Modelagem/especificação-suplementar.md
+
+        - NFR:
+            - V1: Modelagem/NFR/V1.md
+            - V2: Modelagem/NFR/V2.md
+            - V3: Modelagem/NFR/V3.md
+        - Ágil:
+            - Backlog: Modelagem/Ágil/Backlog.md
+            - Histórias de Usuário:
+                - Modelo: Modelagem/Ágil/Histórias de Usuário/Modelo.md
+                - US01: Modelagem/Ágil/Histórias de Usuário/US01.md
+                - US02: Modelagem/Ágil/Histórias de Usuário/US02.md
+                - US03: Modelagem/Ágil/Histórias de Usuário/US03.md
+                - US04: Modelagem/Ágil/Histórias de Usuário/US04.md
+                - US05: Modelagem/Ágil/Histórias de Usuário/US05.md
+                - US06: Modelagem/Ágil/Histórias de Usuário/US06.md
+                - US07: Modelagem/Ágil/Histórias de Usuário/US07.md
+                - US08: Modelagem/Ágil/Histórias de Usuário/US08.md
+                - US09: Modelagem/Ágil/Histórias de Usuário/US09.md
+                - US10: Modelagem/Ágil/Histórias de Usuário/US10.md
+                - US11: Modelagem/Ágil/Histórias de Usuário/US11.md
+                - US12: Modelagem/Ágil/Histórias de Usuário/US12.md
+                - US13: Modelagem/Ágil/Histórias de Usuário/US13.md
+                - US14: Modelagem/Ágil/Histórias de Usuário/US14.md
+                - US15: Modelagem/Ágil/Histórias de Usuário/US15.md
+                - US16: Modelagem/Ágil/Histórias de Usuário/US16.md
+                - US17: Modelagem/Ágil/Histórias de Usuário/US17.md
+                - US18: Modelagem/Ágil/Histórias de Usuário/US18.md
+                - US19: Modelagem/Ágil/Histórias de Usuário/US19.md
+                - US20: Modelagem/Ágil/Histórias de Usuário/US20.md
+                - US21: Modelagem/Ágil/Histórias de Usuário/US21.md
+                - US22: Modelagem/Ágil/Histórias de Usuário/US22.md
+                - US23: Modelagem/Ágil/Histórias de Usuário/US23.md
+                - US24: Modelagem/Ágil/Histórias de Usuário/US24.md
+                - US25: Modelagem/Ágil/Histórias de Usuário/US25.md
+                - US26: Modelagem/Ágil/Histórias de Usuário/US26.md
+                - US27: Modelagem/Ágil/Histórias de Usuário/US27.md
+                - US28: Modelagem/Ágil/Histórias de Usuário/US28.md
+                - US29: Modelagem/Ágil/Histórias de Usuário/US29.md
+                - US30: Modelagem/Ágil/Histórias de Usuário/US30.md
+                - US31: Modelagem/Ágil/Histórias de Usuário/US31.md
+                - US32: Modelagem/Ágil/Histórias de Usuário/US32.md
+                - US33: Modelagem/Ágil/Histórias de Usuário/US33.md
+                - US34: Modelagem/Ágil/Histórias de Usuário/US34.md
+                - US35: Modelagem/Ágil/Histórias de Usuário/US35.md
+                - US36: Modelagem/Ágil/Histórias de Usuário/US36.md
+                - US37: Modelagem/Ágil/Histórias de Usuário/US37.md
+                - US38: Modelagem/Ágil/Histórias de Usuário/US38.md
+                - US39: Modelagem/Ágil/Histórias de Usuário/US39.md
+                - US40: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US41: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US42: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US43: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US44: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US45: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US46: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US47: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US48: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US49: Modelagem/Ágil/Histórias de Usuário/US40.md
+                - US50: Modelagem/Ágil/Histórias de Usuário/US50.md
+                - US51: Modelagem/Ágil/Histórias de Usuário/US51.md
+                - US52: Modelagem/Ágil/Histórias de Usuário/US52.md
+                - US53: Modelagem/Ágil/Histórias de Usuário/US53.md
+                - US54: Modelagem/Ágil/Histórias de Usuário/US54.md
+                - US55: Modelagem/Ágil/Histórias de Usuário/US55.md
+                - US56: Modelagem/Ágil/Histórias de Usuário/US56.md
+                - US57: Modelagem/Ágil/Histórias de Usuário/US57.md
+                - US58: Modelagem/Ágil/Histórias de Usuário/US58.md
+                - US59: Modelagem/Ágil/Histórias de Usuário/US59.md
+
+                
+    
+    - Análise:
+        - Verificação:
+            - Inspeção Casos de Uso: Análise/Verificação/Casos de Uso.md
+            - Inspeção Backlog: Análise/Verificação/Backlog.md
+            - Inspeção Especificação Suplementar: Análise/Verificação/Inspeção Especificação Suplementar.md
+            - Inspeção Léxicos: Análise/Verificação/Inspeção Léxicos.md
+            - Inspeção Cenários: Análise/Verificação/Inspeção Cenários.md
+            - Inspeção NFR: Análise/Verificação/Inspeção NFR.md
+            - Inspeção Rich Picture: Análise/Verificação/Rich Picture.md
+        - Validação:
+            - Protótipo: Análise/Validação/Protótipo.md
+            - Validação Informal: Análise/Validação/Validação Informal.md
+
+    - Sprints:
+        - Sprints: Sprints/sprints.md
+    - Entregas:
+        - Entregas: Entregas/entregas.md
 
 theme:
   name: 'material'
