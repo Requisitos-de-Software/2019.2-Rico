@@ -4,7 +4,7 @@
 <p align="justify">&emsp;Para uma validação bem sucedida, contamos com a ajuda de Juliano Almeida, um empresário responsável pela empresa PrimeCred, o mesmo possui um alto conhecimento sobre o mundo dos investimentos e das corretoras.</p>
 
 ![Juliano](../../img/juliano.jpg)
-<p align="center"><i>Juliano Almeida</i></p>
+<p align="center"><i>Juliano Almeida, empresário responsável pela empresa PrimeCred</i></p>
 
 <p align="justify">&emsp;Foi feita uma reunião, o aluno Tiago converversou com Juliano pela ferramento hangouts em uma quinta feira, dia 21/11. Pedimos para o empresário validar o Rich Picture elaborado pela equipe</p>
 
@@ -12,9 +12,12 @@
 
 
 ![Juliano](../../img/Richhh.jpg)
-<p align="center"><i>Juliano Almeida</i></p>
+<p align="center"><i>Rich Picture feito por Juliano</i></p>
 
-<p align="justify">&emsp;A partir do rascunho feito por Juliano e através da inspeção realizada no processo de verificação, uma versão final do Rich Picture foi elaborada. O resultado foi este:</p>
+<p align="justify">&emsp;A partir do rascunho feito por Juliano e através da inspeção realizada no processo de verificação, uma versão final do Rich Picture foi elaborada. Vale salientar que o fluxo responsável por renda variável estava errado, logo, entramos em contato, via google hangouts, com Juliano novamente para sanar essa dúvida. O resultado foi este:</p>
+
+![Juliano](../../img/RichFi.png)
+<p align="center"><i>Rich Picture Final</i></p>
 
 ### **Validação Mal Sucedida - Via Email**
 
