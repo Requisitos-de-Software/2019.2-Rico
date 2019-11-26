@@ -7,28 +7,28 @@ Inicialmente cada participante do grupo ficou responsável por fazer o Rich Pict
 Esse Rich Picture foi evoluído conforme a equipe recebia feedbacks e captava mais conhecimento sobre o aplicativo.</p>
 
 ## **Versão Individual** 
-![Rich-picture](../img/photo_2019-08-28_19-51-30.jpg)
+![Rich-picture](../../img/photo_2019-08-28_19-51-30.jpg)
 <p align="center">
 Visão inicial do fluxo principal do sistema </p>
 
 ## **Versão em Grupo - V0**
-![Rich Picture em Grupo V0](../img/Rich Picture - Rico.jpg)
+![Rich Picture em Grupo V0](../../img/Rich Picture - Rico.jpg)
 
 <p align="center">
 <b>Mudanças:</b> O fluxo principal do sistema foi ampliado</p>
 
 ## **Versão em Grupo - V1**
-![Rich Picture em Grupo V1](../img/RichPicture.jpg)
+![Rich Picture em Grupo V1](../../img/RichPicture.jpg)
 <p align="center">
 <b>Mudanças:</b> O fluxo principal do sistema foi esquematizado com um novo design, erros foram corrigidos</p>
 
 ## **Versão em Grupo - V2**
-![Rich Picture em Grupo V2](../img/RichPicture3.0.png)
+![Rich Picture em Grupo V2](../../img/RichPicture3.0.png)
 <p align="center">
 <b>Mudanças:</b> Adicionou-se a fronteira.</p>
 
 ## **Versão Validada - V3**
-![Juliano](../img/RichFi.png)
+![Juliano](../../img/RichFi.png)
 <b>Mudanças:</b> Houve uma refatoração geral, assim como a fronteira</p>
 
 
